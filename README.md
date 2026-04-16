@@ -24,3 +24,4 @@ Python — working towards PCAP 2.0 certification.
 
 - itch.io: [brutusverde.itch.io](https://brutusverde.itch.io)
 - LinkedIn: [linkedin.com/in/diego-lópez-navas-9675bb281](https://www.linkedin.com/in/diego-l%C3%B3pez-navas-9675bb281/)
+- Gmail: [brutusverde1@gmail.com]

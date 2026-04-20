@@ -15,6 +15,7 @@ I'm a developer based in Madrid with a background in 3D animation, game design a
 ## 🎮 Featured Project
 
 **[Voidbane](https://brutusverde.itch.io/voidbane)** — Cooperative horror game for up to 4 players built with Unity and Netcode for GameObjects. Includes original 3D models made in Blender. Final project of my game design degree.
+**[Masete SL](https://masete.netlify.app/)** — Corporate website redesign for a mechanical parts manufacturing company. Built with HTML and CSS.
 
 ## 🌱 Currently learning
 

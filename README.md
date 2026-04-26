@@ -20,7 +20,7 @@ I'm a developer based in Madrid with a background in 3D animation, game design a
 
 ## 🌱 Currently learning
 
-Python — working towards PCAP 2.0 certification.
+Python (PCAP 2.0) — data structures, OOP, exception handling, modules and file I/O.
 
 ## 📫 Get in touch
 

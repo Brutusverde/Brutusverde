@@ -22,6 +22,6 @@ I'm a developer based in Madrid with a background in 3D animation, game design a
 Python (PCAP 2.0) — data structures, OOP, exception handling, file I/O, Pandas and SQL.
 
 ## 📫 Get in touch
-- [itch.io](https://brutusverde.itch.io)
+- itchIo: [itch.io](https://brutusverde.itch.io)
 - LinkedIn: [linkedin.com/in/diego-lopez-navas-9675bb281](https://www.linkedin.com/in/diego-lopez-navas-9675bb281)
 - Gmail: [brutusverde1@gmail.com](mailto:brutusverde1@gmail.com)

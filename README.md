@@ -14,7 +14,7 @@ I'm a developer based in Madrid with a background in 3D animation, game design a
 ## 🚀 Featured Projects
 **[Voidbane](https://brutusverde.itch.io/voidbane)** — Cooperative horror game for up to 4 players built with Unity and Netcode for GameObjects. Includes original 3D models made in Blender. Final project of my game design degree.
 
-**[GastosBot](https://github.com/Brutusverde/gastosbot)** — Telegram bot for managing shared expenses in a flat. Automatically splits costs, tracks debts and generates monthly summaries. Built with Python, SQLite and Pandas. Try it: @gastospiso_bot
+**[PartyCash](https://github.com/Brutusverde/gastosbot](https://github.com/Brutusverde/PartyCash)** — Telegram bot for managing shared expenses in a flat. Automatically splits costs, tracks debts and generates monthly summaries. Built with Python, SQLite and Pandas. Try it: @gastospiso_bot
 
 **[Masete SL](https://masete.netlify.app/)** — Corporate website redesign for a mechanical parts manufacturing company. Built with HTML and CSS.
 
